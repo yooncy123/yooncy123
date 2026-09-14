@@ -53,7 +53,8 @@ Java와 Spring으로 백엔드를 개발하며,<br>
 | **03 · Mini Dooray!** | 프로젝트 협업 및 일정 관리 | 게이트웨이 · 업무 CRUD · 프론트 |
 | **04 · Bean Solid** | 도서 쇼핑몰 | 회원 관리 · 리뷰 · 이미지 연동 |
 
-### 01 · 4IREN [관련 노션](https://4iren.notion.site/4-iren-395f42d4653280aeb412f3dcec27aa77)
+### 01 · 4IREN 
+[관련 노션](https://4iren.notion.site/4-iren-395f42d4653280aeb412f3dcec27aa77)
 
 > 환경 데이터와 ML 추천을 사용자가 실행할 수 있는 행동 가이드로 연결하는 AIoT 플랫폼
 
